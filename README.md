@@ -1,4 +1,4 @@
-# Chatbox-with-Amazon-Lex
+# Chatbot-with-Amazon-Lex
 Creating a chatbot to assist with order tracking
 Read.Me
  
